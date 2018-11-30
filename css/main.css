@@ -1,0 +1,14 @@
+/*EL CSS FUNCIONA POR ZONAS A EDITAR EJ.BODY LLEVA DENTRO TODO LO QUE SE MODIFIQUE AHÍ*/
+/* DESPUÉS H1 MODIFICA DENTRO Y APLICA POR BLOQUES*/
+
+
+body {
+    color: red;
+    /*url aplica .. subir/salir de carpeta actual, diagonal es ir a siguiente*/
+    background-image: url("../images/123.jpg");
+    background-color: #cccccc;
+}
+
+h1 {
+    color: #00ff00;
+}
